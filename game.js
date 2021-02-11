@@ -21,7 +21,7 @@ const game = new Phaser.Game(config)
 
 function preload(){
 
-this.load.image('Back', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBVEjy2EEyE7Y13gWELYcIF_HVLvoDHGMng&usqp=CAU');
+this.load.image('Back', 'GameImage.jpeg');
 
 }
 
